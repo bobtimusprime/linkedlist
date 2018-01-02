@@ -9,8 +9,8 @@ class LinkedList :
 	public LinkedListInterface
 {
 public:
-	LinkedList();
-	~LinkedList();
+	LinkedList() {};
+	~LinkedList() {};
 
 	/*
 	insertHead
