@@ -1,6 +1,10 @@
 #pragma once
 #include "LinkedListInterface.h"
 
+using namespace std;
+
+template<typename T>
+
 class LinkedList :
 	public LinkedListInterface
 {
